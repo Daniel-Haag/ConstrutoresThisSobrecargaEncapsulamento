@@ -1,0 +1,7 @@
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 5  - Construtores, palavra this, sobrecarga, encapsulamento\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 5  - Construtores, palavra this, sobrecarga, encapsulamento\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 5  - Construtores, palavra this, sobrecarga, encapsulamento\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.pdb
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 5  - Construtores, palavra this, sobrecarga, encapsulamento\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 5  - Construtores, palavra this, sobrecarga, encapsulamento\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.exe
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 5  - Construtores, palavra this, sobrecarga, encapsulamento\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.pdb
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 5  - Construtores, palavra this, sobrecarga, encapsulamento\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csprojAssemblyReference.cache
